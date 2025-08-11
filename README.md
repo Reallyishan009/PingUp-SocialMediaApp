@@ -1,10 +1,10 @@
 # 🚀 PingUp — The Modern Social Media Experience  
 
 <!-- GitHub Stars Badge -->
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/pingup?style=social)](https://github.com/yourusername/pingup/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/yourgithubusername/yourrepositoryname?style=social)](https://github.com/yourgithubusername/yourrepositoryname/stargazers)
 
 <!-- GitHub Forks Badge -->
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/pingup?style=social)](https://github.com/yourusername/pingup/network/members)
+[![GitHub forks](https://img.shields.io/github/forks/yourgithubusername/yourrepositoryname?style=social)](https://github.com/yourgithubusername/yourrepositoryname/network/members)
 
 <!-- Tech Stack Badge -->
 ![Tech Stack](https://github-readme-tech-stack.vercel.app/?github=yourusername&repo=pingup&notitle=true&theme=dark&langs=react,mongodb,express,nodejs,tailwindcss)
@@ -59,5 +59,4 @@ If you like this project, don’t forget to **⭐ star the repo** and share feed
 
 🔗 **Live App:** [https://pingup-frontend-five.vercel.app/](https://pingup-frontend-five.vercel.app/)
 
-## 📂 Project Structure  
 
