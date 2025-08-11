@@ -4,8 +4,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/Reallyishan009/PingUp-SocialMediaApp?style=social)](https://github.com/Reallyishan009/PingUp-SocialMediaApp/stargazers)
 <!-- GitHub Forks Badge -->
 [![GitHub forks](https://img.shields.io/github/forks/Reallyishan009/PingUp-SocialMediaApp?style=social)](https://github.com/Reallyishan009/PingUp-SocialMediaApp/network/members)
-<!-- Tech Stack Badge -->
-![Tech Stack](https://github-readme-tech-stack.vercel.app/?github=Reallyishan009&repo=PingUp-SocialMediaApp&notitle=true&theme=dark&langs=react,mongodb,express,nodejs,tailwindcss)
+
 
 ---
 
