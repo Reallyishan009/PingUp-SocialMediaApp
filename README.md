@@ -8,7 +8,7 @@
 
 <!-- Tech Stack Badge -->
 ![Tech Stack](https://github-readme-tech-stack.vercel.app/?github=Reallyishan009&repo=PingUp-SocialMediaApp&notitle=true&theme=dark&langs=react,mongodb,express,nodejs,tailwindcss)
-
+.
 
 A next-gen social media platform where users can connect, share, and engage in real-time. **PingUp** is designed for speed, security, and social interaction — built with modern web tech for blazing performance and seamless UX.
 
