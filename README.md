@@ -11,6 +11,7 @@
 A **next-gen social media platform** where users can connect, share, and engage in *real-time*.  
 **PingUp** is engineered for speed, security, and seamless social interaction — built using modern web technologies for blazing fast performance and an intuitive user experience.
 
+🔗 Live App: [https://pingup-frontend-five.vercel.app/](https://pingup-frontend-five.vercel.app/)
 ---
 
 ## ✨ Features
@@ -57,7 +58,7 @@ Experience it now!
 If you like this project, please **⭐ star the repo** and share your feedback!  
 Help this community grow stronger with your support.
 
-🔗 Live App: [https://pingup-frontend-five.vercel.app/](https://pingup-frontend-five.vercel.app/)
+
 
 ---
 
